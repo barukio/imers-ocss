@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://storage.googleapis.com/webdesignledger.pub.network/LaT/edd/2016/02/vintage-vignette-tan-paper-texture-8.jpg);
+    background-size: auto auto;
+    font-family: arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: #B91515;
+    text-align:center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
